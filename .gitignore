@@ -1,0 +1,16 @@
+# Ignore large dataset files
+dataset/train.csv
+dataset/test.csv
+
+# Ignore model files
+*.pkl
+
+# Ignore virtual environment
+env310tfgpu/
+
+# Ignore zipped project file
+house_price_prediction_project.zip
+
+# Ignore other unnecessary files
+__pycache__/
+*.pyc
